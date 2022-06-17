@@ -17,7 +17,7 @@ To run the demo repo code:
   
 To run the server tests:
    - make sure you are inside the server folder
-   - `npm run dev`
+   - `npm run test`
    - you can use `npm run coverage` to check the test coverage
 
 To run the client tests:
