@@ -26,8 +26,11 @@ To run the client tests:
    - `npm test`
    - you can use `npm run coverage` to check the test coverage
 
+Extend the functionality of the site to do full CRUD
+   - make sure to work in equal parts on the backend and connecting data to the front end
 
-# Exercises
+
+# Extension Exercises
 Working in pairs:
 1. Start work on your own API!
    - You can choose what your API does
